@@ -1,0 +1,44 @@
+The word being checked is: COMPUTER
+COMPTER has too few letters
+COMPUTXER has too many letters
+KOMPUTERS has too many letters
+COMPUDER has a substitution error
+COMPUTER is correct
+COPMUTER has a transposition error
+
+
+The word being checked is: BRITNEY
+BRITTANY has too many letters
+BRITNE has too few letters
+BTITINEY has too many letters
+BRITNEYS has too many letters
+BRITNYE has a transposition error
+
+
+The word being checked is: KOURNIKOVA
+OURNIKOVA has too few letters
+SKOURNIKOVA has too many letters
+KOURNIKOVO has a substitution error
+COURNIKOVA has a substitution error
+KOURNAKOVA has a substitution error
+OKURNIKOVA has a transposition error
+
+
+The word being checked is: NAME
+SALES has too many letters
+NALES has too many letters
+NAMES has too many letters
+NAMSE has too many letters
+NAM has too few letters
+SALE has too many errors
+NALE has a substitution error
+NAIL has too many errors
+NMAE has a transposition error
+
+
+The amount of insertion errors: 10
+The amount of deletion errors: 4
+The amount of substitution errors: 5
+The amount of transposition errors: 4
+The amount of really bad errors: 2
+The amount of correct words: 1
